@@ -11,7 +11,7 @@ Executed environment : conda , Windows
 2. Unzip the file and rename the folder to 'yamaha'
 3. File Directory should look like this
    
-   ![Screenshot of File Directory](https://github.com/BaeSungHyun/Off-Road-Semantic-Segmentation-MobileNetV3Small-and-DeepLabv3Plus/blob/main/images/data_preprocess.png)
+   ![Screenshot of File Directory](https://github.com/BaeSungHyun/Off-Road-Semantic-Segmentation-MobileNetV3Small-and-DeepLabv3Plus/blob/main/images/file_directory.png)
 4. Run 'dataset_preprocess.py' in this repo in the same directory as the 'yamaha' folder, which will make new folder called 'annotations' and 'images' inside 'yamaha' folder
    
    ![Command for dataset preprocessing](https://github.com/BaeSungHyun/Off-Road-Semantic-Segmentation-MobileNetV3Small-and-DeepLabv3Plus/blob/main/images/data_preprocess.png)
