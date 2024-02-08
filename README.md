@@ -18,7 +18,7 @@ Executed environment : conda , Windows
 5. Done!
 
 # Model
-1. Open jupyter notebook in this repo
+1. Open jupyter notebook 'MobileNetv3Small_Deeplabv3Plus.ipynb' in this repo
 2. Run it!
 3. Dataset annotation inside jupyter notebook
 
