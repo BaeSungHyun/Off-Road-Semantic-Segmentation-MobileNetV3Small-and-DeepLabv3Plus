@@ -5,11 +5,13 @@ Yamaha-CMU Off-Road Dataset을 사용하여 MobileNetV3Small + DeepLabV3+를 이
 
 # Dependency
 Executed environment : conda , Windows
+\
 1.Set your virtual environment on conda first, and activate it.
 \
 2.Use code : conda install --file packagelist.txt / pip install -r requirements.txt (Your choice! Or just install it manually)
 \
 실행 환경: conda, Windows
+\
 1.먼저 conda에서 가상 환경을 설정하고 활성화하세요.
 \
 2.다음 코드를 사용하세요: conda install --file packagelist.txt / pip install -r requirements.txt (원하는 방법을 선택하거나 수동으로 설치할 수 있습니다.)
@@ -27,7 +29,6 @@ Executed environment : conda , Windows
 \
 3.파일 디렉토리는 다음과 같이 되어야 합니다.
 
-\
 
    
    ![Screenshot of File Directory](https://github.com/BaeSungHyun/Off-Road-Semantic-Segmentation-MobileNetV3Small-and-DeepLabv3Plus/blob/main/images/file_directory.png)
@@ -40,7 +41,6 @@ Executed environment : conda , Windows
    ![Command for dataset preprocessing](https://github.com/BaeSungHyun/Off-Road-Semantic-Segmentation-MobileNetV3Small-and-DeepLabv3Plus/blob/main/images/data_preprocess.png)
 6.Done!
 
-\
 
 
 # Model
@@ -56,7 +56,6 @@ Executed environment : conda , Windows
 \
 3.주피터 노트북 내에서 데이터셋 주석 작업을 진행합니다.
 
-\
 
 
   ![Screenshot of Dataset Mask Annotations](https://github.com/BaeSungHyun/Off-Road-Semantic-Segmentation-MobileNetV3Small-and-DeepLabv3Plus/blob/main/images/dataset_mask_annotations.png)
